@@ -16,10 +16,12 @@ I extracted data from these two sources, transformed the data into one clean dat
 ## Results
 After accomplishing the extraction, transformation, and loading process of movie data from various sources into one source, the participants at the hack-a-thon are now able to analyze the data on their own in SQL. To show the sheer size of the data now available to the partipants, I've included references below.
 
-First is a count of all the rows in the table, which consists of all the movie information, merged cleanly from both Wikipedia and MoviesLens movie data. Here are the number of movies we have movie information on:
+First is a count of all the rows in the table which consists of all the movie information. This table is a cleanly merged table, pulling information from both Wikipedia and MoviesLens movie data. Here are the number of movies we have movie information on:
 
 ![Movies Query](Resources/movies_query.png)
 
-And here below is a count of the compilation of all of the different movie ratings and reviews made availables, from the MoviesLens website.
+And here below is a count of the compilation of all of the different movie ratings and reviews made available, from the MoviesLens website.
 
 ![Ratings Query](Resources/ratings_query.png)
+
+The hack-a-thon is set to commence. The data analysis can begin!
