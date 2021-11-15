@@ -22,4 +22,4 @@ First is a table of all of the movie information, merged cleanly from both Wikip
 
 And here below is a count of the compilation of all of the different movie ratings and reviews, from the MoviesLens website.
 
-![Ratings Query](Resources/ratings_query.png.png)
+![Ratings Query](Resources/ratings_query.png)
